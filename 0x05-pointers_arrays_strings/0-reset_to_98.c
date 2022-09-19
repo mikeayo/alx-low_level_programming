@@ -3,7 +3,7 @@
 /**
 *reset_to_98 - resets a value of given integer to 98
 *@n: parameter
-*return: nothing
+*Return: nothing
 */
 
 void reset_to_98(int *n)
