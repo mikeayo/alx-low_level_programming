@@ -5,6 +5,8 @@
 /**
  *_rev - print a string in reverse
  *@s: string to reverse
+ *
+ * description: printing a string in a reverse order
  *Return: nothing
 */
 
